@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Generic -->
+    <string name="app_name">CyanogenMod background chooser</string>
+    <string name="move_ui">Sucessfully copied file to background chooser.</string>
+</resources>
